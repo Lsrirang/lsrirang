@@ -1,8 +1,7 @@
 ## 🚀 About Me:
 Hey there! I'm **Likhita Naga Sai Srirangam**, a **DevOps enthusiast** with over 2 years of experience in **Cloud Engineering** and **Automation**. I specialize in optimizing infrastructure and streamlining deployment processes. With a strong focus on **AWS**, **Kubernetes**, **Docker**, and **CI/CD**, I thrive on transforming complex systems into seamless, automated solutions.
 
-![Cool Animated GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNjYWZtdWIydDI0NmE0aHEyNnZlZ3A1bWY4OXlydXgxNjR6bTdibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif)
-
+![Cool Animated GIF](https://giphy.com/gifs/DigitalHarbor-kgUkCLMu3xhw1T6txv)
 🌐 I specialize in automating **cloud infrastructures** and ensuring high availability and scalability using cutting-edge technologies like **AWS**, **Docker**, **Kubernetes**, and **Terraform**.
 
 ## 🔧 Languages & Tools:
