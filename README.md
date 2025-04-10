@@ -38,14 +38,9 @@ Hey there! I'm **Likhita Naga Sai Srirangam**, a **DevOps enthusiast** with over
 
 ---
 
-## ✍️ "Automation is the key to freeing up time for more important problems."
+## ✍️ "Let automation handle the routine, so I can focus on creating the next big solution."
 
 ---
 
-## 🌍 Open-Source Contributions:
-- Contributed to the **Terraform AWS Modules** repository for better cloud infrastructure management.
-- Improved **Kubernetes** configurations for better resource optimization in large-scale environments.
-
----
 
 🔗 [LinkedIn](https://www.linkedin.com/in/likhita-naga-sai/)
