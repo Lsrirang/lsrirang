@@ -33,7 +33,7 @@ I'm a **Cloud Engineer**, **DevOps Engineer**, and **Data Engineer** with a focu
 
 ## 📫 Let's Connect:
 - LinkedIn: [Likhita Naga Sai](https://www.linkedin.com/in/likhita-naga-sai/)
-- Email: likhita@example.com
+- Email: likhitanagasai@gmail.com
 
-![Likhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhita-naga-sai&show_icons=true&hide_title=true)
+[Likhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhita-naga-sai&show_icons=true&hide_title=true)
 
