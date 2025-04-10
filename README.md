@@ -28,7 +28,7 @@ Hey there! I'm **Likhita Naga Sai Srirangam**, a **DevOps enthusiast** with over
 ---
 
 ## 📊 GitHub Stats:
-![Likhita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhitanagasai&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Likhita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsrirang&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
