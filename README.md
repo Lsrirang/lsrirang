@@ -1,39 +1,51 @@
-<!--
-**Lsrirang/lsrirang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me:
+Hey there! I'm **Likhita Naga Sai Srirangam**, a **DevOps enthusiast** with over 2 years of experience in **Cloud Engineering** and **Automation**. I specialize in optimizing infrastructure and streamlining deployment processes. With a strong focus on **AWS**, **Kubernetes**, **Docker**, and **CI/CD**, I thrive on transforming complex systems into seamless, automated solutions.
 
-Here are some ideas to get you started:
+![Cool Animated GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNjYWZtdWIydDI0NmE0aHEyNnZlZ3A1bWY4OXlydXgxNjR6bTdibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 I specialize in automating **cloud infrastructures** and ensuring high availability and scalability using cutting-edge technologies like **AWS**, **Docker**, **Kubernetes**, and **Terraform**.
 
-# Hello, I'm Likhita! 👋
+## 🔧 Languages & Tools:
+<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYpllayW6brTCliPqIQfA6gCeJsgf6lzG9P5uSWPgL-9FQ3BiWJgclHRnfg2aTThRbsc&usqp=CAU" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40">
+</div>
 
-I'm a **Cloud Engineer**, **DevOps Engineer**, and **Data Engineer** with a focus on optimizing data infrastructure and deploying scalable cloud solutions. With hands-on experience in tools like **AWS**, **Docker**, **Kubernetes**, and **Terraform**, I'm passionate about building efficient and automated systems.
+✨ **Let’s automate everything** and embrace **cloud-native architecture** to build systems that are not only scalable but also efficient and reliable.
 
-## 🔧 Technologies & Tools:
-- **Cloud Platforms**: AWS (EC2, Lambda, S3, RDS, IAM)
-- **Containerization & Orchestration**: Docker, Kubernetes, Docker Swarm
-- **Automation & Infrastructure-as-Code**: Terraform, Ansible
-- **CI/CD**: Jenkins, GitHub Actions
-- **Version Control**: Git, GitHub, GitLab
-- **Programming Languages**: Python, SQL, Java, R
-- **Data Engineering**: Apache Spark, Kafka, Snowflake, ETL Pipelines
+---
 
-## 🌱 Currently Learning:
-- Advanced **Cloud Security** and **Serverless Architectures**
-- Automation with **GitOps** and **CI/CD pipelines** using **ArgoCD** and **Kubernetes**
-- **Machine Learning Operations (MLOps)** integration with cloud services
+## 💻 Tech Stack:
+- **Languages**: ![Python](https://img.shields.io/badge/python-000000?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/bash-000000?style=flat&logo=bash&logoColor=white)
+- **Cloud**: ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+- **Containers & Orchestration**: ![Docker](https://img.shields.io/badge/docker-000000?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+- **DevOps Tools**: ![Jenkins](https://img.shields.io/badge/Jenkins-FF9800?style=flat&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+- **Scripting**: ![Python](https://img.shields.io/badge/python-000000?style=flat&logo=python&logoColor=white)
 
-## 📫 Let's Connect:
-- LinkedIn: [Likhita Naga Sai](https://www.linkedin.com/in/likhita-naga-sai/)
-- Email: likhitanagasai@gmail.com
+---
 
-[Likhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhita-naga-sai&show_icons=true&hide_title=true)
+## 📊 GitHub Stats:
+![Likhita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhitanagasai&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+---
+
+## 🏅 Certifications:
+- **AWS Certified Solutions Architect - Associate**
+
+---
+
+## ✍️ "Automation is the key to freeing up time for more important problems."
+
+---
+
+## 🌍 Open-Source Contributions:
+- Contributed to the **Terraform AWS Modules** repository for better cloud infrastructure management.
+- Improved **Kubernetes** configurations for better resource optimization in large-scale environments.
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/likhita-naga-sai/)
