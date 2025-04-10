@@ -20,11 +20,14 @@ Hey there! I'm **Likhita Naga Sai Srirangam**, a **DevOps enthusiast** with over
 ---
 
 ## 💻 Tech Stack:
-- **Languages**: ![Python](https://img.shields.io/badge/python-000000?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/bash-000000?style=flat&logo=bash&logoColor=white)
-- **Cloud**: ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-- **Containers & Orchestration**: ![Docker](https://img.shields.io/badge/docker-000000?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-- **DevOps Tools**: ![Jenkins](https://img.shields.io/badge/Jenkins-FF9800?style=flat&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-- **Scripting**: ![Python](https://img.shields.io/badge/python-000000?style=flat&logo=python&logoColor=white)
+**Cloud Engineering**: AWS (S3, EC2, RDS, Lambda, Route 53, IAM)
+**Automation**: CI/CD pipeline creation, Jenkins, Terraform, Ansible
+**Containerization & Orchestration**: Docker, Kubernetes, Docker Swarm
+**Scripting & Programming**: Python, Bash
+**Infrastructure as Code (IaC)**: Terraform, CloudFormation
+**Monitoring & Logging**: Prometheus, Grafana, CloudWatch
+**Version Control & Collaboration**: Git, GitHub, GitLab
+**Configuration Management**: Ansible
 
 ---
 
